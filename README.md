@@ -3,5 +3,5 @@
 This program will ask for a user's age and use what they inputed to determine whether they are of legal age to drink in the US
 
 Members:
-Jake Kressley
+Jake Kressley,
 Vishal Suthakar
