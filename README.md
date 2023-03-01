@@ -1,4 +1,5 @@
 # CMPINF-0010-Lab-6
+add-license-1
 
 Labs 6 and 7 Repository
 Group Members:
@@ -19,7 +20,7 @@ We decided to use the Contributor Covenant Code of Conduct. We chose this becaus
 
 The code presented should be an accurate way to check if someone is above or below the legal drinking age. If that changes, anyone who possesses a copy of the repository may go in and update the age checker. In addition to making changes in the code, one can add code to maybe test if they can drink legally in different places around the world. If any changes are made, they are expected to be proofread and checked to make sure the code runs properly.
 
-=======
 Jake Kressley,
 Vishal Suthakar
->>>>>>> 832891cdd3699ca9a7430a7580706054a9a55900
+
+main
