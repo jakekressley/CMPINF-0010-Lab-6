@@ -10,11 +10,11 @@ Our repository asks the name and age of the user, and prints a statement declari
 
 # Liscense
 
-Our project is MIT licensed. We believe this is a good license to have because it allows people that obtained a copy from the original user to manipulate the project. We also have a liability clause at the end of our license. The link to the license--> [here](https://jupyterhub.sci.pitt.edu/hub/user-redirect/lab/tree/CMPINF-0010-Lab-6/LICENCE)
+Our project is MIT licensed. We believe this is a good license to have because it allows people that obtained a copy from the original user to manipulate the project. We also have a liability clause at the end of our license. The link to the license--> [here](https://github.com/jakekressley/CMPINF-0010-Lab-6/blob/main/LICENCE)
 
 # Code of Conduct
 
-We decided to use the Contributor Covenant Code of Conduct. We chose this because it is widely used and clarifies unspoken rules that everyone should follow to provide everyone with a safe, welcoming environment. The link to code of conduct --> [here](https://jupyterhub.sci.pitt.edu/hub/user-redirect/lab/tree/CMPINF-0010-Lab-6/CODE_OF_CONDUCT.md)
+We decided to use the Contributor Covenant Code of Conduct. We chose this because it is widely used and clarifies unspoken rules that everyone should follow to provide everyone with a safe, welcoming environment. The link to code of conduct --> [here](https://github.com/jakekressley/CMPINF-0010-Lab-6/blob/main/CODE_OF_CONDUCT.md)
 
 # Contributing
 
